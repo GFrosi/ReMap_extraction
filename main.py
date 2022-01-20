@@ -1,6 +1,6 @@
 import argparse
 import sys
-from webscrape import webscrp as wp
+from webscraper import webscrp as wp
 import pandas as pd
 
 
